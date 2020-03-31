@@ -1,0 +1,9 @@
+GUI_X.pbi: \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Middlewares\ST\STemWin\OS\GUI_X.c \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc\GUI.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/GUI_ConfDefaults.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\STemWin\Target\GUIConf.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/GUI_Type.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/LCD.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/Global.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/GUI_Version.h

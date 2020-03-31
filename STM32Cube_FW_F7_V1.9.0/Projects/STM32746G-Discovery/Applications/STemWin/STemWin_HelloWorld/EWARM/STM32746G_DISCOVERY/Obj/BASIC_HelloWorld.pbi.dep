@@ -1,0 +1,16 @@
+BASIC_HelloWorld.pbi: \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\STemWin\App\BASIC_HelloWorld.c \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc\GUI.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/GUI_ConfDefaults.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\STemWin\Target\GUIConf.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/GUI_Type.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/LCD.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/Global.h \
+  C:\Users\Nathan\Desktop\Formula\ SAE\ (Desktop\ Only)\File\ from\ Messenger\STM32Cube_FW_F7_V1.9.0\Projects\STM32746G-Discovery\Applications\STemWin\STemWin_HelloWorld\EWARM\..\..\..\..\..\..\Middlewares\ST\STemWin\inc/GUI_Version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\math.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_float_setup.h
